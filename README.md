@@ -1,4 +1,4 @@
-# Unmasking-Deepfake-Faces-from-Videos-An-Explainable-Cost-Sensitive-Deep-Learning-Approach
+# Unmasking Deepfake Faces from Videos An Explainable Cost-Sensitive Deep Learning Approach
 
 ### 📌 Abstract
 <h4 align="justify" >
