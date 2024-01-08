@@ -7,6 +7,16 @@ Deepfake technology is widely used, which has led to serious worries about the a
 
 
 ## Results
+
+####  Performance Metrics of Weighted Average on CelebDf-V2 Dataset
+
+| Models        | Accuracy   | Precision  |  Recall | F1 Score   |
+| ------------- |:-------------:| :-------------:| :-------------:| :-------------:| 
+|  XceptionNet  | **98%**  | **0.98**  | **0.98**  | **0.98** |
+|  InceptionResNetV2  | 0.97  |  0.97  | 0.97  | 0.97 |
+|  EfficientNetV2S  | 0.97  | 0.97  | 0.97  | 0.97 |
+|  EfficientNetV2M  | 0.97  | 0.97  | 0.97  | 0.97 |
+
 ####  Performance Metrics of Weighted Average on FaceForensics++ Dataset
 
 | Models        | Accuracy   | Precision  |  Recall | F1 Score   |
