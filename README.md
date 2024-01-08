@@ -7,6 +7,7 @@ Deepfake technology is widely used, which has led to serious worries about the a
 
 
 ## Results
+####  Performance Metrics of Weighted Average on FaceForensics++ Dataset
 
 | Models        | Accuracy   | Precision  |  Recall | F1 Score   |
 | ------------- |:-------------:| :-------------:| :-------------:| :-------------:| 
