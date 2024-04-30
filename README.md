@@ -5,6 +5,7 @@ This repository contains the code and datasets used in the paper titled **"Unmas
 **Paper Link:** [Preprint](https://www.researchgate.net/publication/378533983_Unmasking_Deepfake_Faces_from_Videos_Using_An_Explainable_Cost-Sensitive_Deep_Learning_Approach)
 
 ## Dataset
+We used publicly available datasets they are [CelbDF-V2](https://github.com/yuezunli/celeb-deepfakeforensics) and [FaceForensics++](https://github.com/ondyari/FaceForensics)
 
 ## Results
 
@@ -26,10 +27,6 @@ This repository contains the code and datasets used in the paper titled **"Unmas
 |  EfficientNetV2S  | 92%  | 0.92  | 0.92  | 0.92 |
 |  EfficientNetV2M  | 88%  | 0.89  | 0.88  | 0.88 |
 
-## License
-Contents of this repository are restricted to non-commercial research purposes only under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
 
 ### 📝 Citation
