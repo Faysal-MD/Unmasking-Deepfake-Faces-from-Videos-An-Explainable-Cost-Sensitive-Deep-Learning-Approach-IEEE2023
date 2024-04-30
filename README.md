@@ -1,6 +1,6 @@
 # Unmasking Deepfake Faces from Videos An Explainable Cost-Sensitive Deep Learning Approach
 
-This repository contains the code and datasets used in the paper titled "Unmasking Deepfake Faces from Videos An Explainable Cost-Sensitive Deep Learning Approach" accepted and presented at the 26th International Conference on Computer and Information Technology (ICCIT) 2023.
+This repository contains the code and datasets used in the paper titled **"Unmasking Deepfake Faces from Videos An Explainable Cost-Sensitive Deep Learning Approach"** accepted and presented at the 26th International Conference on Computer and Information Technology (ICCIT) 2023.
 
 ## Results
 
