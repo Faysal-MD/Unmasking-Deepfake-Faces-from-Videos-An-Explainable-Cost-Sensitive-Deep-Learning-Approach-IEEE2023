@@ -4,10 +4,15 @@ This repository contains the code and datasets used in the paper titled **"Unmas
 
 **Paper Link:** [Preprint](https://www.researchgate.net/publication/378533983_Unmasking_Deepfake_Faces_from_Videos_Using_An_Explainable_Cost-Sensitive_Deep_Learning_Approach)
 
+## Table of Contents
+  - [Dataset](#dataset)
+  - [Result](#result)
+  - [Citation](#citation)
+
 ## Dataset
 We used publicly available datasets they are [CelbDF-V2](https://github.com/yuezunli/celeb-deepfakeforensics) and [FaceForensics++](https://github.com/ondyari/FaceForensics)
 
-## Results
+## Result
 
 ####  Performance Metrics of Weighted Average on CelebDf-V2 Dataset
 
