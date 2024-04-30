@@ -2,6 +2,8 @@
 
 This repository contains the code and datasets used in the paper titled **"Unmasking Deepfake Faces from Videos An Explainable Cost-Sensitive Deep Learning Approach"** accepted and presented at the 26th International Conference on Computer and Information Technology (ICCIT) 2023.
 
+**Paper Link:** [Preprint](https://www.researchgate.net/publication/378533983_Unmasking_Deepfake_Faces_from_Videos_Using_An_Explainable_Cost-Sensitive_Deep_Learning_Approach)
+
 ## Results
 
 ####  Performance Metrics of Weighted Average on CelebDf-V2 Dataset
