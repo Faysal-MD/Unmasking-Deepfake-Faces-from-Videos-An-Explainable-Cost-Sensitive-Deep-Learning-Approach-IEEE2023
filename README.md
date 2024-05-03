@@ -2,7 +2,7 @@
 
 This repository contains the code and datasets used in the paper titled **"Unmasking Deepfake Faces from Videos An Explainable Cost-Sensitive Deep Learning Approach"** accepted and presented at the 26th International Conference on Computer and Information Technology (ICCIT) 2023.
 
-**Paper Link:** [Preprint](https://www.researchgate.net/publication/378533983_Unmasking_Deepfake_Faces_from_Videos_Using_An_Explainable_Cost-Sensitive_Deep_Learning_Approach)
+**Paper Link:** [PDF](https://www.researchgate.net/publication/378533983_Unmasking_Deepfake_Faces_from_Videos_Using_An_Explainable_Cost-Sensitive_Deep_Learning_Approach)
 
 ## Table of Contents
   - [Dataset](#dataset)
@@ -37,12 +37,16 @@ We used publicly available datasets they are [CelbDF-V2](https://github.com/yuez
 ## Citation
 If you found this code helpful please consider citing,
 ```
-@inproceedings{mahmud2023unmasking,
-  title={Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach},
-  author={Mahmud, Faysal and Abdullah, Yusha and Islam, Minhajul and Aziz, Tahsin},
-  booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)},
-  pages={1--6},
-  year={2023},
-  organization={IEEE}
+@INPROCEEDINGS{10441026,
+            author={Mahmud, Faysal and Abdullah, Yusha and Islam, Minhajul and Aziz, Tahsin},
+            booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)}, 
+            title={Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach}, 
+            year={2023},
+            volume={},
+            number={},
+            pages={1-6},
+            keywords={Deep learning;Deepfakes;Adaptation models;Face recognition;Computational modeling;Feature extraction;Convolutional neural networks;Deepfake               
+            video;Keyframe;Explainable AI (XAI);Cost-sensitive;Face Detection;CelebDf;FaceForensics++;CNN},
+            doi={10.1109/ICCIT60459.2023.10441026}
 }
 ```
