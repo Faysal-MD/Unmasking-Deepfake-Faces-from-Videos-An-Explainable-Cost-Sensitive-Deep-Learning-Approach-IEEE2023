@@ -16,7 +16,7 @@ We used publicly available datasets they are [CelbDF-V2](https://github.com/yuez
 
 ####  Performance Metrics of Weighted Average on CelebDf-V2 Dataset
 
-| Models        | Accuracy   | Precision  |  Recall | F1 Score   |
+| Model         | Accuracy   | Precision  |  Recall | F1 Score   |
 | ------------- |:-------------:| :-------------:| :-------------:| :-------------:| 
 |  XceptionNet  | **98%**  | **0.98**  | **0.98**  | **0.98** |
 |  InceptionResNetV2  | 0.97  |  0.97  | 0.97  | 0.97 |
