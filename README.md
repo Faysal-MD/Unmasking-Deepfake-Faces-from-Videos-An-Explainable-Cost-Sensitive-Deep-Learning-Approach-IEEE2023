@@ -46,3 +46,7 @@ If you found this code helpful please consider citing,
   organization={IEEE}
 }
 ```
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/Faysal-MD/Unmasking-Deepfake-Faces-from-Videos-An-Explainable-Cost-Sensitive-Deep-Learning-Approach-IEEE2023/blob/main/LICENSE) file for more information.
